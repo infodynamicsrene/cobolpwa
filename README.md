@@ -1,6 +1,6 @@
 ![](http://infodynamics.com.ph/wp-content/uploads/2015/02//infoDynamics_Document-Processes-436x270.png)
 
-![License](http://infodynamics.com.ph)
+![License](http://www.infodynamics.com.ph)
 
 # PWA using COBOL Backend (using COM+)
 
