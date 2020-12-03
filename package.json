@@ -1,0 +1,20 @@
+{
+  "name": "cobolpwa",
+  "version": "1.0.0",
+  "description": "macMobile PWA using Cobol backend code (under COM+)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run open",
+    "open": "start http://localhost/"
+  },
+  "keywords": [
+    "Cobol",
+    "PWA"
+  ],
+  "author": "infoDynamics Consulting",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
